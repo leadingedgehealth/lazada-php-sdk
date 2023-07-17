@@ -2,7 +2,6 @@
     "name": "appolous/lazada-php-sdk",
     "description": "A Fork of Lazada PHP SDK for Laravel ",
     "type": "library",
-    "minimum-stability": "dev",
     "keywords": [
         "lazada",
         "laravel"
